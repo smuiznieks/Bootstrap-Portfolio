@@ -2,3 +2,20 @@
 	padding-right: 20px;
 }
 
+.sticky-footer {
+	padding-top: 20px;
+}
+
+.navbar {
+	color: white;
+}
+
+.portfolio h4 {
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.portfolio img {
+	min-width: 100%;
+}
